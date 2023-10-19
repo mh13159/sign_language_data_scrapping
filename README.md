@@ -1,5 +1,4 @@
 # sign_language_data_scrapping
-Certainly, here are a few project descriptions and potential use cases for the code in a GitHub readme:
 
 **Project 1: BSL Sign Language Data Scraper**
 
